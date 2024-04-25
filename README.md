@@ -15,5 +15,6 @@ here :
 https://replicate.com/vaibhavs10/incredibly-fast-whisper
 
 Copy the code into the app.py
+
 pip install replicate
 
