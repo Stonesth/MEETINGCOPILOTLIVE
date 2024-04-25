@@ -18,3 +18,8 @@ Copy the code into the app.py
 
 pip install replicate
 
+On MAC
+export REPLICATE_API_TOKEN=
+
+On Windows
+set REPLICATE_API_TOKEN=
