@@ -4,7 +4,13 @@ It's link to the video find in youtube.
 INCREDIBLE Fast AI Real Time Speech to Text Transcribtion - Build From Scratch
 https://www.youtube.com/watch?v=BBnWExtRd4A&t=266s
 
-py venv venv
+
+python3 -m venv venv
+
+MAC
+source venv/bin/activate
+Windows
+
 
 After that you need to create app.py
 Got to this url :
@@ -23,3 +29,10 @@ export REPLICATE_API_TOKEN=
 
 On Windows
 set REPLICATE_API_TOKEN=
+
+pip install boto3
+
+
+go to this url :
+https://aws.amazon.com/
+
